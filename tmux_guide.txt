@@ -1,0 +1,9 @@
+vim 에서는 esc눌러서 진입하는거하고 같음
+:
+
+Ctrl + A 명령어 진입
+
+<Command> +  [  = 터미널 내용 위 아래 탐색
+<Command> +  [  + / = 터미널 내용 검색
+<Command> + " = 터미널 위 아래 나누기 split
+<Command> + % = 터미널 좌 우 나누기

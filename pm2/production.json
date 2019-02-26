@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "name": "ext-messenger-api",
+      "script": "src/index.js",
+      "ignore_watch": [
+        "node_modules",
+        "logs"
+      ],
+      "watch_options": {
+        "followSymlinks": false
+      },
+      "env": {
+        "NODE_ENV": "production",
+        "NODE_PATH": "src"
+      }
+    }
+  ]
+}
